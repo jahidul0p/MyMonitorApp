@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.MonitorApp" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>

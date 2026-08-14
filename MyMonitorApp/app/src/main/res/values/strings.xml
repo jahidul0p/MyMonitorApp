@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonitorApp</string>
+    <string name="accessibility_service_description">This service monitors typed text, screen content, and taps.</string>
+</resources>
