@@ -14,7 +14,7 @@ android {
         versionName "1.0"
 
         // ⚠️ এই লাইনটি নতুন যোগ করা (এটি Render-এর লিংক APK-তে পাঠাবে)
-        buildConfigField "String", "API_ENDPOINT", "\"https://your-app.onrender.com/api/logs\""
+        buildConfigField "String", "API_ENDPOINT", "\"https://my-monitor-app-dashboard.vercel.app/api/logs\""
     }
 
     buildTypes {
